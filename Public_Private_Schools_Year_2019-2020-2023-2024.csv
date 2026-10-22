@@ -1,0 +1,271 @@
+School Year,Geolocation_Code,School_Type_Code,Geolocation,Type of School,Elementary,Junior High School,Senior High School
+1,1,1,..BARMM,Private,193,99,68
+1,1,2,..BARMM,Public,2134,355,217
+1,1,3,..BARMM,Total,2327,454,285
+1,2,1,..Bicol Region,Private,476,213,236
+1,2,2,..Bicol Region,Public,3158,720,674
+1,2,3,..Bicol Region,Total,3634,933,910
+1,3,1,..CALABARZON,Private,2685,1358,939
+1,3,2,..CALABARZON,Public,2754,762,520
+1,3,3,..CALABARZON,Total,5439,2120,1459
+1,4,1,..CAR,Private,199,140,113
+1,4,2,..CAR,Public,1533,317,218
+1,4,3,..CAR,Total,1732,457,331
+1,5,1,..Cagayan Valley,Private,370,147,143
+1,5,2,..Cagayan Valley,Public,2208,451,337
+1,5,3,..Cagayan Valley,Total,2578,598,480
+1,6,1,..Caraga,Private,240,97,88
+1,6,2,..Caraga,Public,1670,449,398
+1,6,3,..Caraga,Total,1910,546,486
+1,7,1,..Central Luzon,Private,1485,784,657
+1,7,2,..Central Luzon,Public,3014,772,593
+1,7,3,..Central Luzon,Total,4499,1556,1250
+1,8,1,..Central Visayas,Private,815,491,371
+1,8,2,..Central Visayas,Public,2949,933,759
+1,8,3,..Central Visayas,Total,3764,1424,1130
+1,9,1,..Davao Region,Private,500,243,228
+1,9,2,..Davao Region,Public,1708,521,353
+1,9,3,..Davao Region,Total,2208,764,581
+1,10,1,..Eastern Visayas,Private,226,128,120
+1,10,2,..Eastern Visayas,Public,3646,577,435
+1,10,3,..Eastern Visayas,Total,3872,705,555
+1,11,1,..Ilocos Region,Private,475,315,247
+1,11,2,..Ilocos Region,Public,2414,576,546
+1,11,3,..Ilocos Region,Total,2889,891,793
+1,12,1,..MIMAROPA Region,Private,244,129,108
+1,12,2,..MIMAROPA Region,Public,1900,457,282
+1,12,3,..MIMAROPA Region,Total,2144,586,390
+1,13,1,..NCR,Private,2099,959,767
+1,13,2,..NCR,Public,517,288,235
+1,13,3,..NCR,Total,2616,1247,1002
+1,14,1,..Northern Mindanao,Private,523,274,240
+1,14,2,..Northern Mindanao,Public,2156,540,345
+1,14,3,..Northern Mindanao,Total,2679,814,585
+1,15,1,..SOCCSKSARGEN,Private,374,204,180
+1,15,2,..SOCCSKSARGEN,Public,1817,590,384
+1,15,3,..SOCCSKSARGEN,Total,2191,794,564
+1,16,1,..Western Visayas,Private,999,342,258
+1,16,2,..Western Visayas,Public,3409,791,653
+1,16,3,..Western Visayas,Total,4408,1133,911
+1,17,1,..Zamboanga Peninsula,Private,233,111,132
+1,17,2,..Zamboanga Peninsula,Public,2127,425,350
+1,17,3,..Zamboanga Peninsula,Total,2360,536,482
+1,18,1,Philippines,Private,12136,6034,4895
+1,18,2,Philippines,Public,39114,9524,7299
+1,18,3,Philippines,Total,51250,15558,12194
+2,1,1,..BARMM,Private,189,101,71
+2,1,2,..BARMM,Public,2135,357,230
+2,1,3,..BARMM,Total,2324,458,301
+2,2,1,..Bicol Region,Private,436,220,251
+2,2,2,..Bicol Region,Public,3161,736,685
+2,2,3,..Bicol Region,Total,3597,956,936
+2,3,1,..CALABARZON,Private,2409,1312,919
+2,3,2,..CALABARZON,Public,2755,770,524
+2,3,3,..CALABARZON,Total,5164,2082,1443
+2,4,1,..CAR,Private,181,136,109
+2,4,2,..CAR,Public,1541,333,232
+2,4,3,..CAR,Total,1722,469,341
+2,5,1,..Cagayan Valley,Private,347,151,143
+2,5,2,..Cagayan Valley,Public,2213,468,341
+2,5,3,..Cagayan Valley,Total,2560,619,484
+2,6,1,..Caraga,Private,234,97,87
+2,6,2,..Caraga,Public,1706,473,399
+2,6,3,..Caraga,Total,1940,570,486
+2,7,1,..Central Luzon,Private,1320,745,637
+2,7,2,..Central Luzon,Public,3022,809,603
+2,7,3,..Central Luzon,Total,4342,1554,1240
+2,8,1,..Central Visayas,Private,743,482,369
+2,8,2,..Central Visayas,Public,2948,941,766
+2,8,3,..Central Visayas,Total,3691,1423,1135
+2,9,1,..Davao Region,Private,444,241,227
+2,9,2,..Davao Region,Public,1736,576,368
+2,9,3,..Davao Region,Total,2180,817,595
+2,10,1,..Eastern Visayas,Private,207,125,119
+2,10,2,..Eastern Visayas,Public,3648,600,442
+2,10,3,..Eastern Visayas,Total,3855,725,561
+2,11,1,..Ilocos Region,Private,447,306,244
+2,11,2,..Ilocos Region,Public,2417,583,552
+2,11,3,..Ilocos Region,Total,2864,889,796
+2,12,1,..MIMAROPA Region,Private,220,126,107
+2,12,2,..MIMAROPA Region,Public,1905,469,288
+2,12,3,..MIMAROPA Region,Total,2125,595,395
+2,13,1,..NCR,Private,1947,927,766
+2,13,2,..NCR,Public,519,288,238
+2,13,3,..NCR,Total,2466,1215,1004
+2,14,1,..Northern Mindanao,Private,451,277,246
+2,14,2,..Northern Mindanao,Public,2161,583,360
+2,14,3,..Northern Mindanao,Total,2612,860,606
+2,15,1,..SOCCSKSARGEN,Private,321,195,178
+2,15,2,..SOCCSKSARGEN,Public,1827,628,404
+2,15,3,..SOCCSKSARGEN,Total,2148,823,582
+2,16,1,..Western Visayas,Private,905,341,257
+2,16,2,..Western Visayas,Public,3413,815,663
+2,16,3,..Western Visayas,Total,4318,1156,920
+2,17,1,..Zamboanga Peninsula,Private,208,112,131
+2,17,2,..Zamboanga Peninsula,Public,2128,433,360
+2,17,3,..Zamboanga Peninsula,Total,2336,545,491
+2,18,1,Philippines,Private,11009,5894,4861
+2,18,2,Philippines,Public,39235,9862,7455
+2,18,3,Philippines,Total,50244,15756,12316
+3,1,1,..BARMM,Private,218,126,90
+3,1,2,..BARMM,Public,2251,402,255
+3,1,3,..BARMM,Total,2469,528,345
+3,2,1,..Bicol Region,Private,410,223,265
+3,2,2,..Bicol Region,Public,3163,756,697
+3,2,3,..Bicol Region,Total,3573,979,962
+3,3,1,..CALABARZON,Private,2243,1277,922
+3,3,2,..CALABARZON,Public,2757,781,533
+3,3,3,..CALABARZON,Total,5000,2058,1455
+3,4,1,..CAR,Private,172,138,105
+3,4,2,..CAR,Public,1539,353,246
+3,4,3,..CAR,Total,1711,491,351
+3,5,1,..Cagayan Valley,Private,330,156,139
+3,5,2,..Cagayan Valley,Public,2212,483,358
+3,5,3,..Cagayan Valley,Total,2542,639,497
+3,6,1,..Caraga,Private,209,93,85
+3,6,2,..Caraga,Public,1702,483,399
+3,6,3,..Caraga,Total,1911,576,484
+3,7,1,..Central Luzon,Private,1263,730,628
+3,7,2,..Central Luzon,Public,3027,849,613
+3,7,3,..Central Luzon,Total,4290,1579,1241
+3,8,1,..Central Visayas,Private,722,482,372
+3,8,2,..Central Visayas,Public,2954,962,776
+3,8,3,..Central Visayas,Total,3676,1444,1148
+3,9,1,..Davao Region,Private,401,238,226
+3,9,2,..Davao Region,Public,1739,605,385
+3,9,3,..Davao Region,Total,2140,843,611
+3,10,1,..Eastern Visayas,Private,205,127,121
+3,10,2,..Eastern Visayas,Public,3648,605,446
+3,10,3,..Eastern Visayas,Total,3853,732,567
+3,11,1,..Ilocos Region,Private,434,297,245
+3,11,2,..Ilocos Region,Public,2414,596,555
+3,11,3,..Ilocos Region,Total,2848,893,800
+3,12,1,..MIMAROPA Region,Private,221,128,106
+3,12,2,..MIMAROPA Region,Public,1910,476,290
+3,12,3,..MIMAROPA Region,Total,2131,604,396
+3,13,1,..NCR,Private,1797,882,753
+3,13,2,..NCR,Public,526,296,243
+3,13,3,..NCR,Total,2323,1178,996
+3,14,1,..Northern Mindanao,Private,444,273,243
+3,14,2,..Northern Mindanao,Public,2171,607,378
+3,14,3,..Northern Mindanao,Total,2615,880,621
+3,15,1,..SOCCSKSARGEN,Private,284,174,166
+3,15,2,..SOCCSKSARGEN,Public,1730,616,392
+3,15,3,..SOCCSKSARGEN,Total,2014,790,558
+3,16,1,..Western Visayas,Private,875,345,258
+3,16,2,..Western Visayas,Public,3413,832,662
+3,16,3,..Western Visayas,Total,4288,1177,920
+3,17,1,..Zamboanga Peninsula,Private,202,112,131
+3,17,2,..Zamboanga Peninsula,Public,2129,447,366
+3,17,3,..Zamboanga Peninsula,Total,2331,559,497
+3,18,1,Philippines,Private,10430,5801,4855
+3,18,2,Philippines,Public,39285,10149,7594
+3,18,3,Philippines,Total,49715,15950,12449
+4,1,1,..BARMM,Private,218,121,90
+4,1,2,..BARMM,Public,2252,404,255
+4,1,3,..BARMM,Total,2470,525,345
+4,2,1,..Bicol Region,Private,411,226,269
+4,2,2,..Bicol Region,Public,3167,778,700
+4,2,3,..Bicol Region,Total,3578,1004,969
+4,3,1,..CALABARZON,Private,2120,1236,917
+4,3,2,..CALABARZON,Public,2759,788,548
+4,3,3,..CALABARZON,Total,4879,2024,1465
+4,4,1,..CAR,Private,167,136,104
+4,4,2,..CAR,Public,1542,362,249
+4,4,3,..CAR,Total,1709,498,353
+4,5,1,..Cagayan Valley,Private,321,156,139
+4,5,2,..Cagayan Valley,Public,2211,498,360
+4,5,3,..Cagayan Valley,Total,2532,654,499
+4,6,1,..Caraga,Private,202,91,85
+4,6,2,..Caraga,Public,1704,488,405
+4,6,3,..Caraga,Total,1906,579,490
+4,7,1,..Central Luzon,Private,1234,733,633
+4,7,2,..Central Luzon,Public,3039,879,630
+4,7,3,..Central Luzon,Total,4273,1612,1263
+4,8,1,..Central Visayas,Private,717,475,371
+4,8,2,..Central Visayas,Public,2954,974,798
+4,8,3,..Central Visayas,Total,3671,1449,1169
+4,9,1,..Davao Region,Private,390,231,226
+4,9,2,..Davao Region,Public,1741,624,403
+4,9,3,..Davao Region,Total,2131,855,629
+4,10,1,..Eastern Visayas,Private,198,127,119
+4,10,2,..Eastern Visayas,Public,3654,624,456
+4,10,3,..Eastern Visayas,Total,3852,751,575
+4,11,1,..Ilocos Region,Private,421,294,247
+4,11,2,..Ilocos Region,Public,2418,601,564
+4,11,3,..Ilocos Region,Total,2839,895,811
+4,12,1,..MIMAROPA Region,Private,217,123,108
+4,12,2,..MIMAROPA Region,Public,1913,487,298
+4,12,3,..MIMAROPA Region,Total,2130,610,406
+4,13,1,..NCR,Private,1663,852,745
+4,13,2,..NCR,Public,527,295,241
+4,13,3,..NCR,Total,2190,1147,986
+4,14,1,..Northern Mindanao,Private,439,269,244
+4,14,2,..Northern Mindanao,Public,2177,639,397
+4,14,3,..Northern Mindanao,Total,2616,908,641
+4,15,1,..SOCCSKSARGEN,Private,271,171,170
+4,15,2,..SOCCSKSARGEN,Public,1734,635,402
+4,15,3,..SOCCSKSARGEN,Total,2005,806,572
+4,16,1,..Western Visayas,Private,845,339,258
+4,16,2,..Western Visayas,Public,3415,845,669
+4,16,3,..Western Visayas,Total,4260,1184,927
+4,17,1,..Zamboanga Peninsula,Private,204,113,134
+4,17,2,..Zamboanga Peninsula,Public,2129,479,371
+4,17,3,..Zamboanga Peninsula,Total,2333,592,505
+4,18,1,Philippines,Private,10038,5693,4859
+4,18,2,Philippines,Public,39336,10400,7746
+4,18,3,Philippines,Total,49374,16093,12605
+5,1,1,..BARMM,Private,217,124,95
+5,1,2,..BARMM,Public,2253,409,256
+5,1,3,..BARMM,Total,2470,533,351
+5,2,1,..Bicol Region,Private,412,230,277
+5,2,2,..Bicol Region,Public,3172,811,702
+5,2,3,..Bicol Region,Total,3584,1041,979
+5,3,1,..CALABARZON,Private,2087,1208,921
+5,3,2,..CALABARZON,Public,2764,809,556
+5,3,3,..CALABARZON,Total,4851,2017,1477
+5,4,1,..CAR,Private,161,133,104
+5,4,2,..CAR,Public,1542,373,254
+5,4,3,..CAR,Total,1703,506,358
+5,5,1,..Cagayan Valley,Private,322,154,138
+5,5,2,..Cagayan Valley,Public,2210,512,364
+5,5,3,..Cagayan Valley,Total,2532,666,502
+5,6,1,..Caraga,Private,201,88,82
+5,6,2,..Caraga,Public,1703,493,407
+5,6,3,..Caraga,Total,1904,581,489
+5,7,1,..Central Luzon,Private,1212,725,645
+5,7,2,..Central Luzon,Public,3049,913,652
+5,7,3,..Central Luzon,Total,4261,1638,1297
+5,8,1,..Central Visayas,Private,727,479,381
+5,8,2,..Central Visayas,Public,2965,1017,822
+5,8,3,..Central Visayas,Total,3692,1496,1203
+5,9,1,..Davao Region,Private,385,223,225
+5,9,2,..Davao Region,Public,1743,634,407
+5,9,3,..Davao Region,Total,2128,857,632
+5,10,1,..Eastern Visayas,Private,203,127,120
+5,10,2,..Eastern Visayas,Public,3652,637,460
+5,10,3,..Eastern Visayas,Total,3855,764,580
+5,11,1,..Ilocos Region,Private,417,296,247
+5,11,2,..Ilocos Region,Public,2418,620,567
+5,11,3,..Ilocos Region,Total,2835,916,814
+5,12,1,..MIMAROPA Region,Private,212,124,113
+5,12,2,..MIMAROPA Region,Public,1913,498,317
+5,12,3,..MIMAROPA Region,Total,2125,622,430
+5,13,1,..NCR,Private,1611,826,714
+5,13,2,..NCR,Public,527,298,241
+5,13,3,..NCR,Total,2138,1124,955
+5,14,1,..Northern Mindanao,Private,434,265,240
+5,14,2,..Northern Mindanao,Public,2184,653,420
+5,14,3,..Northern Mindanao,Total,2618,918,660
+5,15,1,..SOCCSKSARGEN,Private,274,170,174
+5,15,2,..SOCCSKSARGEN,Public,1742,658,403
+5,15,3,..SOCCSKSARGEN,Total,2016,828,577
+5,16,1,..Western Visayas,Private,836,335,260
+5,16,2,..Western Visayas,Public,3419,873,680
+5,16,3,..Western Visayas,Total,4255,1208,940
+5,17,1,..Zamboanga Peninsula,Private,213,113,142
+5,17,2,..Zamboanga Peninsula,Public,2130,515,381
+5,17,3,..Zamboanga Peninsula,Total,2343,628,523
+5,18,1,Philippines,Private,9924,5620,4878
+5,18,2,Philippines,Public,39386,10723,7889
+5,18,3,Philippines,Total,49310,16343,12767
